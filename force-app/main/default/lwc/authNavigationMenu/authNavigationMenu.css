@@ -3,7 +3,7 @@
     background-color:   var(--dxp-g-root);  
 }
 
-.navbar-items {
+.navbar-items {     /*   */
     font-family: var(--dxp-g-root-font-family);
     font-size: 1rem;
     font-weight: 500;
