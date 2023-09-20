@@ -1,6 +1,6 @@
 .navbar {
     padding-bottom: 0.625rem;
-    background-color: var(--dxp-g-root);
+    background-color:   var(--dxp-g-root);  
 }
 
 .navbar-items {
