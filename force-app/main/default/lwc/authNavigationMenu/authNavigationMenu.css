@@ -1,9 +1,9 @@
 .navbar {
     padding-bottom: 0.625rem;
-    background-color: var(--dxp-g-root);
+    background-color:   var(--dxp-g-root);  
 }
 
-.navbar-items {
+.navbar-items {     /*   */
     font-family: var(--dxp-g-root-font-family);
     font-size: 1rem;
     font-weight: 500;
